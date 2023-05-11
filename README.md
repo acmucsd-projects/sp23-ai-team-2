@@ -7,7 +7,7 @@ Team Members:
 Team 2:
 Shubham Bhargava \
 Saksham Diwan \
-Anchit Kumar \
+Anchit Kumar 
 
 ## Project Summary
 We plan to implement DeepQ Learning and PPO Algorithms in the game Soccer-Twos by setting up an evironment in \
